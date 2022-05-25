@@ -8,5 +8,5 @@ Notebooks of our research and modelling of "For You" Page. This pipeline will gi
 | Model Input     | User Feature and Hotel Feature |
 | Model Output    | Rating Prediction                |
 
-Model Architecture:
+Model Architecture:  
 ![image](https://user-images.githubusercontent.com/61568092/170303571-9212c4ae-1a76-407b-a9ab-64ce8bd395bd.png)
